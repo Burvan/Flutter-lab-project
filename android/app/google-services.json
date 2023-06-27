@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "454216249232",
+    "firebase_url": "https://flutter-delivery-app-e3cfd-default-rtdb.firebaseio.com",
+    "project_id": "flutter-delivery-app-e3cfd",
+    "storage_bucket": "flutter-delivery-app-e3cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454216249232:android:8b0073f5b15675076a8d15",
+        "android_client_info": {
+          "package_name": "com.example.flutter_lab_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454216249232-fmh8v78h0c3kfitfut3c0inqsjm9ibau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPUIIadWBkAOsOMpLJFuOkJMffUMxBSiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454216249232-fmh8v78h0c3kfitfut3c0inqsjm9ibau.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "454216249232-jgnnar1d6nm7qmtig982aqb1gsj25i9g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterLabProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
